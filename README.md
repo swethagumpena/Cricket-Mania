@@ -2,19 +2,19 @@
 
 Submitted by: **Swetha Gumpena**
 
-This web app: **insert description**
+This web app: **App to build your own cricket team and strategically choose players. Allowed to further edit and delete players**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **A create form allows users to add new cremates**
-- [ ] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
-- [ ] **The site displays a summary page of all the user's added crewmates**
-- [ ] **A previously created crewmate can be updated and deleted from the crewmate list**
-- [ ] **Each crewmate has a direct, unique link to an info page about them**
+- [x] **A create form allows users to add new cremates**
+- [x] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
+- [x] **The site displays a summary page of all the user's added crewmates**
+- [x] **A previously created crewmate can be updated and deleted from the crewmate list**
+- [x] **Each crewmate has a direct, unique link to an info page about them**
 
 The following **optional** features are implemented:
 
@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with LiceCAP
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
